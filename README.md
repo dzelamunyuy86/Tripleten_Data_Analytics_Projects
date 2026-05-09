@@ -4,7 +4,7 @@ TripleTen Data Analytics Projects
 This repository presents my data analytics projects completed during the TripleTen Data Analyst Program. The projects demonstrate my skills in spreadsheets, SQL, Python, Tableau, business analytics, data visualization, statistical analysis, and storytelling with data.
 
 Projects
-Projects |Tools Used |Description 
+
 Superstore Returns Analysis: Analyzed product returns, profitability, and return patterns to identify key drivers of business losses.
 AirBnd Investment Analysis: Aanalysed housing data to determine profitable property sizes in the Manhattan neihborhoods 
 E-commerce Analytics: Built conversion funnels and cohort analysis to evaluate customer behavior and retention
